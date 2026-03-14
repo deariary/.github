@@ -6,7 +6,6 @@ deariary connects your tools (calendar, chat, code, tasks, and more), collects a
 
 - Website: [deariary.com](https://deariary.com)
 - App: [app.deariary.com](https://app.deariary.com)
-- Public sample diary: [app.deariary.com/diaries/2026/03/07](https://app.deariary.com/diaries/2026/03/07)
 
 ## What deariary does
 
