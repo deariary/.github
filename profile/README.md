@@ -24,3 +24,6 @@ Currently supported: Google Calendar, Todoist, Slack, Toggl Track, Steam, Bluesk
 deariary manages product, platform, and operations repositories for app, backend, infrastructure, and documentation.
 
 Public repositories are listed in the organization repositories tab as they become available.
+
+## Others
+- Orynth Contract Address: Vws7bZgAPSaAaxuzi3oK4Df96Qh8c6W6HjDQRvhWory
