@@ -17,7 +17,9 @@ deariary connects your tools (calendar, chat, code, tasks, and more), collects a
 
 ## Integrations
 
-Currently supported: Google Calendar, Todoist, Slack, Toggl Track, Steam, Bluesky, GitHub, Webhook, Weather
+Currently supported: GitHub, Google Calendar, Slack, Steam, Todoist, Bluesky, Toggl Track, Discord, Last.fm, Swarm, Trakt, Linear, Webhook
+
+Coming soon: Weather, Notion, Strava, Trello, Fitbit, GitLab, RescueTime, Instapaper, Whoop, Mastodon
 
 ## Organization repositories
 
